@@ -1,5 +1,5 @@
  {
-  "author": "Nayan",
+  "author": "Rolex",
   "autoRestart": true,
   "accpetPending": false,
   "developermode": false,
@@ -15,9 +15,9 @@
   ],
   "ADMINBOT": [
     "100092466070741",
-    "100044466456371"
+    ""
   ],
-  "OWNER": ["100000959749712"], 
+  "OWNER": ["100092466070741"], 
   "APPROVED": [],
   "disabledcmds": [],
   "disabledevents": [],
