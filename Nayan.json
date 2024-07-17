@@ -1,4 +1,4 @@
-{
+ {
   "author": "Nayan",
   "autoRestart": true,
   "accpetPending": false,
@@ -11,7 +11,7 @@
   "PREFIX": ".",
   "OPERATOR": [
     "100092466070741",
-    "100044466456371"
+    ""
   ],
   "ADMINBOT": [
     "100092466070741",
